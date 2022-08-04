@@ -12,7 +12,7 @@
 ![Project-02 Preview](./Project-02.jpg)
 
 Project is deployed on **Netlify**:
-- You can preview the project here, [**Food Restaurant Home Page**]()
+- You can preview the project here, [**Food Restaurant Home Page**](https://food-restaurant-home-page-2.netlify.app/)
 
 
 
